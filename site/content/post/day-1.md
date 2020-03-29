@@ -1,7 +1,7 @@
 ---
-title: 'Day 1 '
-date: 2020-03-28T08:21:51.552Z
-description: Getting the chickens
-image: img/20200328_153618.jpg
+title: Day 2
+date: 2020-03-29T04:22:51.552Z
+description: Getting up early to look for eggs
+image: img/20200329_072200.jpg
 ---
-Today we went and picked up our chickens from Eggchange.no. It was quite a long drive and through lots of tunnels but it was fun pulling a trailer with a hen house on the back
+We got up reeeeeeeeally early today to go and search for our first eggs. Unfortunately the chickens are still settling in to their new home and probably feel they are not ready for delivering their first batch of eggs for us. Maybe tomorrow :o)
