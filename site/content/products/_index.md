@@ -1,6 +1,5 @@
 ---
 title: Our Coffee
-type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
@@ -60,43 +59,40 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+  - author: Ella Samuel
+    quote: I love my chicken. Fudge is really cool
+  - author: Pappa
+    quote: DJ is the most troublesome
+  - quote: Lollipop is quiet and likes cuddles
+    author: Mamma
+  - quote: I want to have a cuddle with Jelly
+    author: Oliver
+full_image: img/100_0793.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: A selection of hens
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Our free range chickens love to roam the garden, at least if we let them out
+    of their coop!
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Cheeky
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+        - Zero eggs per week
+      plan: Fudge
+      price: Free
+    - description: 'Confident, cocky and a bit of a bully'
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - Zero eggs per week
+      plan: DJ
+      price: Free
+    - description: The most shy of the bunch
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+        - Zero eggs per week
+      plan: Lollipop
+      price: Free
+    - plan: Jelly
+      price: Free
+      description: Yet to impress with egg count
+      items:
+        - Zero eggs per week
+type: products
 ---
-
-
